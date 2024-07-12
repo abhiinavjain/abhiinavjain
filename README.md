@@ -4,17 +4,17 @@ Passionate about DSA and Competitive Programming. Learning full stack web develo
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiinavjain&label=Profile%20views&color=0e75b6&style=flat" alt="abhiinavjain" /> </p>
 
-- 🔭 I’m currently working on **Front end development**
+- 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **C++, HTML, CSS, JS, DSA**
+- 🌱 I’m profecient in  **Java, C++, HTML, CSS, JS, DSA**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abhinav-jain-7a9754247/](https://www.linkedin.com/in/abhinav-jain-7a9754247/)
+- 👨‍💻 All of my projects are available at [My portfolio](https://abhiinavjain-portfolio.vercel.app/)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **MERN Stack,** **Competative Programming,** **Data Structure and Algorithms**
 
 - 📫 How to reach me **abhinavj013@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16-tjsOuR8LAEujARxfNz9M9SnT46Vy53/view](https://drive.google.com/file/d/16-tjsOuR8LAEujARxfNz9M9SnT46Vy53/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zocgSerLKoBbo1TTxz6TekvntPi0tLty/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
