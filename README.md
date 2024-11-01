@@ -16,7 +16,7 @@ Passionate about DSA and Competitive Programming. Learning full stack web develo
 
 - 📫 How to reach me **abhinavj013@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zocgSerLKoBbo1TTxz6TekvntPi0tLty/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aiGPN4rfKIH_1TbErbRkkjmevjqqOgCR/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
