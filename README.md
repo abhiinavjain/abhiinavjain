@@ -20,7 +20,7 @@ Passionate about DSA and Competitive Programming. Learning full stack web develo
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/abiinavjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhiinavjain" height="30" width="40" /></a>
+<a href="https://twitter.com/abhiinavjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhiinavjain" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhinavjain13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinavjain13" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhinavjain13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhinavjain13" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abhiinavjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhiinavjain" height="30" width="40" /></a>
